@@ -1,9 +1,7 @@
-// function sayHi() {
-//     console.log('Я учу JavaScript!'); 
-// }
-// const sayHi=()=>{
-//     console.log('Я учу JavaScript!');
-// };
+const sayHi=()=>{
+    console.log('Я учу JavaScript!');
+};
+sayHi();
 
 const img = document.querySelector('.images');
 console.log(img)
